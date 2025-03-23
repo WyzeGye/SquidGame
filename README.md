@@ -1,5 +1,6 @@
 # SquidGame
-A self tuning motorcycle ECM project
+A self tuning motorcycle ECM project.
+
 The goal is to be optimized for plug and play performance. Starting with support for up to 4 cylinders, and any sensors you can throw at it. 
 Dyno support is included.
 
