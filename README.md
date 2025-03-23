@@ -12,8 +12,15 @@ Code will be optimized for single cylinder engines, despite the name of the proj
 The parts list is hovering around 650 dollars right now, but you already have most of these modules, which significantly lowers that price of entry.
 
 
-#Currently implemented
-Single cylinder
-Fully self-tuning fuel map, with 3 stages of increasing resolution
-Cold Start optimization
-Dyno Mode
+# Currently implemented.
+Single cylinder.
+Fully self-tuning fuel map, with 3 stages of increasing resolution.
+Cold Start optimization.
+Fuel Efficiency / High performance toggle
+HUD
+Dyno Mode.
+
+# In Progress
+Auto-detection of additional cylinders.
+Handling loss of cylinder / Limp mode.
+Individual maps for respective cylinders
