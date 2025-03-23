@@ -149,7 +149,7 @@ def detect_connected_actuators():
     return connected_cylinders
 
 def check_actuator_connection(pin):
-    # Simulate checking actuator connection (replace with actual implementation)
+    # Implement code for checking actuator connection
     return True  # Assume all actuators are connected for now
 
 # Main loop
