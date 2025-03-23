@@ -30,6 +30,8 @@ Dyno Mode (optimizes for HP/Torque in Performance mode, and Torque/Fuel Efficien
 
 Drag and Drop fuel maps in json format
 
+6500 redline (edit the file for yours)
+
 # In Progress
 
 Auto-detection of additional cylinders
@@ -43,6 +45,8 @@ Optimization of imported maps for your particular engine
 Quickshift (up only)
 
 Prettier HUD
+
+Redline calibration
 
 # Long-Term Goals
 
