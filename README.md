@@ -13,14 +13,23 @@ The parts list is hovering around 650 dollars right now, but you already have mo
 
 
 # Currently implemented.
+
 Single cylinder.
+
 Fully self-tuning fuel map, with 3 stages of increasing resolution.
+
 Cold Start optimization.
+
 Fuel Efficiency / High performance toggle
+
 HUD
+
 Dyno Mode.
 
 # In Progress
+
 Auto-detection of additional cylinders.
+
 Handling loss of cylinder / Limp mode.
+
 Individual maps for respective cylinders
