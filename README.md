@@ -16,7 +16,7 @@ It's pretty close to just "wire it up and go." A quick peek at the code shows wh
 
 # Currently implemented
 
-Single cylinder
+Single cylinder (there is a rough mockup for multiple cylinders, you gotta work for it though)
 
 Fully self-tuning fuel map, with 3 stages of increasing resolution
 
