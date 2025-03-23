@@ -11,6 +11,8 @@ Code will be optimized for single cylinder engines, despite the name of the proj
 
 The parts list is hovering around 650 dollars right now, but you already have most of these modules, which significantly lowers that price of entry.
 
+It's pretty close to just "wire it up and go." A quick peek at the code shows where you need to make your own changes.
+
 
 # Currently implemented
 
