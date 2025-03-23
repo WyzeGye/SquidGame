@@ -42,6 +42,8 @@ Optimization of imported maps for your particular engine
 
 Quickshift (up only)
 
+Prettier HUD
+
 # Long-Term Goals
 
 Flipper zero style HUD with a squid encouraging you to get out and ride to fill out that map
