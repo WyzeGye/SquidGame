@@ -33,3 +33,5 @@ Auto-detection of additional cylinders.
 Handling loss of cylinder / Limp mode.
 
 Individual maps for respective cylinders
+
+Quickshift (up only)
