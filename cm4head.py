@@ -217,7 +217,7 @@ def perform_graceful_shutdown():
     exit()
 
 def illuminate_green_led():
-    print("Green LED illuminated. System ready.")
+    print("System ready.")
 
 if __name__ == "__main__":
     main()
