@@ -37,3 +37,7 @@ Handling loss of cylinder / Limp mode
 Individual maps for respective cylinders
 
 Quickshift (up only)
+
+# Long-Term Goals
+
+Flipper zero style HUD with a squid encouraging you to get out and ride to fill out that map.
