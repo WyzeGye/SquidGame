@@ -38,6 +38,8 @@ Handling loss of cylinder / Limp mode
 
 Individual maps for respective cylinders
 
+Optimization of imported maps for your particular engine
+
 Quickshift (up only)
 
 # Long-Term Goals
