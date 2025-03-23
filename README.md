@@ -40,4 +40,8 @@ Quickshift (up only)
 
 # Long-Term Goals
 
-Flipper zero style HUD with a squid encouraging you to get out and ride to fill out that map.
+Flipper zero style HUD with a squid encouraging you to get out and ride to fill out that map
+
+Recommendations for you to ride a certain way to teach the needed cells in the fuel map
+
+Bluetooth enabled app
