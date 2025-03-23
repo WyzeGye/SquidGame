@@ -26,7 +26,7 @@ Fuel Efficiency / High performance toggle
 
 HUD
 
-Dyno Mode
+Dyno Mode (optimizes for HP/Torque in Performance mode, and Torque/Fuel Efficiency in efficiency mode)
 
 Drag and Drop fuel maps in json format
 
