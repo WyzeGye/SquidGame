@@ -48,6 +48,8 @@ Prettier HUD
 
 Redline calibration
 
+VE Table generation
+
 # Long-Term Goals
 
 Flipper zero style HUD with a squid encouraging you to get out and ride to fill out that map
